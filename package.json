@@ -1,0 +1,11 @@
+{
+  "name": "multiwindow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron app.js"
+    },
+  "author": "k vamshi krishna",
+  "license": "ISC"
+}
